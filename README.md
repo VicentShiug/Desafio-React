@@ -20,6 +20,11 @@ Este é um desafio básico que deve ser feito utilizando somente o ReactJS. O ob
 5. Estilize a aplicação para garantir uma experiência de usuário agradável.
 6. Adicione funcionalidades adicionais ou melhorias como bônus, se desejar, lembrando que o importante são as principais funcionalidades do CRUD.
 
+## Imagens de apoio 
+1. <img src='public/img01.png'>
+2. <img src='public/img02.png'>
+3. <img src='public/img03.png'>
+
 ## Critérios de Aprovação
 
 - A aplicação deve funcionar corretamente de acordo com os requisitos especificados.
